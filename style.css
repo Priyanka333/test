@@ -1,0 +1,74 @@
+#out{
+    background-image:url("wallpaper.jpg");
+    text-align: center;
+    border-color:paleturquoise;
+}
+#container0{
+    background-color:paleturquoise;
+    height: 40px;
+    border-color: paleturquoise;
+    
+    }
+#container1{
+background-color:paleturquoise;
+height: 40px;
+border-color: paleturquoise;
+
+}
+#container2{
+    background-color:paleturquoise;
+    height: 40px;
+    border-color: paleturquoise;
+    
+}
+#container3{
+    background-color:paleturquoise;
+    height: 40px;
+    border-color: paleturquoise;
+}
+#child{
+    align: left;
+}
+#box0{
+    background-color:pink;
+    height:140px;
+}
+#box1{
+   height: 500px; 
+}
+
+#box2{
+    background-color:green;
+}
+
+#box3{
+    background-color:pink;
+    height:300px;
+}
+
+#box4{
+    background-color:aqua;
+}
+
+#h3{
+    text-align: center;
+}
+
+table{
+    width:100%;
+    background-color: pink ;
+    border-block-color: green;
+    height:500px
+}
+
+th{
+    height: 50px;
+}
+tr{
+    height: 50px;
+}
+
+a:hover {
+background-color: aqua;
+}
+
